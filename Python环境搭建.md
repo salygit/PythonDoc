@@ -26,6 +26,27 @@ Python 3.9.0要求Windows7以上版本，根据自己电脑安装即可。
 
 ## 安装Python集成开发环境
 
-
+下面两个都是Python的集成开发环境，任选其一。
 1.PythonCharm
 2.VScode
+
+### VScode安装
+
+下载地址：<https://code.visualstudio.com/>
+
+安装VScode非常简单，一路NEXT就可以。
+
+### VScode配置
+
+#### 安装Python插件
+
+1.打开VScode，进入插件管理页面。
+2.在搜索栏输入python。
+3.选择插件，点击安装。
+![节点](./img/python_plug.gif)
+
+#### 创建本地文件夹以及python文件
+
+#### 编写python文件
+
+![节点](./img/python_demo.gif)
